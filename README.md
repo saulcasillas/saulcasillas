@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Databases </b>
-  - [database inquiry and data analysis](https://drive.google.com/file/d/1jdufmny-KhIf0n0iMlzpZFbM2Su90SWF/view?usp=sharing)
+  - [Database Inquiry and Data Analysis](https://drive.google.com/file/d/1jdufmny-KhIf0n0iMlzpZFbM2Su90SWF/view?usp=sharing)
 
 
 <h2> 🤳 Connect with me:</h2>
