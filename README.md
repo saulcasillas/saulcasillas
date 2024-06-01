@@ -2,8 +2,8 @@
   
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Databases </b>
-  - [Database Inquiry and Data Analysis](https://drive.google.com/file/d/1jdufmny-KhIf0n0iMlzpZFbM2Su90SWF/view?usp=sharing)
+- <b>Operating Systems </b>
+  - [Windows and Linux Server Configurations and Security Practices](https://drive.google.com/file/d/1O0m-EgTSFqfW7S6MwIgEPaekSCSmZO0s/view?usp=sharing)
  
 - <b>Databases </b>
   - [Database Inquiry and Data Analysis](https://drive.google.com/file/d/1jdufmny-KhIf0n0iMlzpZFbM2Su90SWF/view?usp=sharing)
