@@ -4,6 +4,7 @@
 
 - <b>Operating Systems </b>
   - [Windows and Linux Server Configurations and Security Practices](https://drive.google.com/file/d/1O0m-EgTSFqfW7S6MwIgEPaekSCSmZO0s/view?usp=sharing)
+  - [File Permissions in Linux](https://drive.google.com/file/d/1_1t7lG8x8Hb7-zgWKiBj3OO8jui22p3p/view?usp=sharing)
  
 - <b>Databases </b>
   - [Database Inquiry and Data Analysis](https://drive.google.com/file/d/1jdufmny-KhIf0n0iMlzpZFbM2Su90SWF/view?usp=sharing)
